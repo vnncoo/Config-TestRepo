@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on any opensource projects for the sake of getting an experience.
 
-📫 I speak english so for international Client & HR feel free to contact me: vnncoo@gmail.com.
+📫 I speak english so for international Clients feel free to contact me: vnncoo@gmail.com.
 
 <!---
 My Web Portfolio: (isBeingBuilt)
