@@ -9,5 +9,5 @@
 📫 I speak english so for international Clients feel free to contact me: vnncoo@gmail.com.
 
 <!---
-My Web Portfolio: (isBeingBuilt)
+My Web Portfolio: (isCurrentlyBeingBuilt)
 --->
