@@ -1,4 +1,4 @@
-👋 Hey, my name is Ivann Comiso! @vnncoo is my username across all platforms.
+👋 Hey, my name is Prince Ivann Comiso! @vnncoo is my username across all platforms.
 
 👀 I'm a 19y/o developer, focused on Web development but is always open to learn new things.
 
