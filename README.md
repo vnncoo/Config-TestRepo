@@ -8,7 +8,8 @@
 
 📫 I speak english so for international Clients feel free to contact me: vnncoo@gmail.com.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vnncoo)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vnncoo&theme=radical&card_width=540)](https://git.io/streak-stats)
+
 
 <!---
 My Web Portfolio: (isCurrentlyBeingReBuilt)...
